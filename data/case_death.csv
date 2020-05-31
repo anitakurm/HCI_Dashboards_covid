@@ -1,0 +1,65 @@
+dateRep,name,value,country,cs
+2020-03-21,Cases,104,Denmark,1255
+2020-03-21,Deaths,3,Denmark,9
+2020-03-21,Cases,1617,France,12612
+2020-03-21,Deaths,78,France,450
+2020-03-21,Cases,4049,Germany,18187
+2020-03-21,Deaths,2,Germany,45
+2020-03-21,Cases,18,Hungary,103
+2020-03-21,Deaths,3,Hungary,4
+2020-03-21,Cases,5986,Italy,47021
+2020-03-21,Deaths,625,Italy,4032
+2020-03-21,Cases,200,Sweden,1623
+2020-03-21,Deaths,6,Sweden,16
+2020-03-21,Cases,706,United Kingdom,3983
+2020-03-21,Deaths,36,United Kingdom,194
+2020-03-21,Cases,5374,USA,19624
+2020-03-21,Deaths,110,USA,260
+2020-03-22,Cases,71,Denmark,1326
+2020-03-22,Deaths,4,Denmark,13
+2020-03-22,Cases,1847,France,14459
+2020-03-22,Deaths,112,France,562
+2020-03-22,Cases,3276,Germany,21463
+2020-03-22,Deaths,22,Germany,67
+2020-03-22,Cases,28,Hungary,131
+2020-03-22,Deaths,0,Hungary,4
+2020-03-22,Cases,6557,Italy,53578
+2020-03-22,Deaths,795,Italy,4827
+2020-03-22,Cases,123,Sweden,1746
+2020-03-22,Deaths,4,Sweden,20
+2020-03-22,Cases,1035,United Kingdom,5018
+2020-03-22,Deaths,56,United Kingdom,250
+2020-03-22,Cases,7123,USA,26747
+2020-03-22,Deaths,80,USA,340
+2020-03-23,Cases,69,Denmark,1395
+2020-03-23,Deaths,0,Denmark,13
+2020-03-23,Cases,1559,France,16018
+2020-03-23,Deaths,112,France,674
+2020-03-23,Cases,3311,Germany,24774
+2020-03-23,Deaths,27,Germany,94
+2020-03-23,Cases,36,Hungary,167
+2020-03-23,Deaths,3,Hungary,7
+2020-03-23,Cases,5560,Italy,59138
+2020-03-23,Deaths,649,Italy,5476
+2020-03-23,Cases,160,Sweden,1906
+2020-03-23,Deaths,1,Sweden,21
+2020-03-23,Cases,665,United Kingdom,5683
+2020-03-23,Deaths,35,United Kingdom,285
+2020-03-23,Cases,8459,USA,35206
+2020-03-23,Deaths,131,USA,471
+2020-03-24,Cases,65,Denmark,1460
+2020-03-24,Deaths,11,Denmark,24
+2020-03-24,Cases,3838,France,19856
+2020-03-24,Deaths,186,France,860
+2020-03-24,Cases,4438,Germany,29212
+2020-03-24,Deaths,32,Germany,126
+2020-03-24,Cases,20,Hungary,187
+2020-03-24,Deaths,1,Hungary,8
+2020-03-24,Cases,4789,Italy,63927
+2020-03-24,Deaths,601,Italy,6077
+2020-03-24,Cases,110,Sweden,2016
+2020-03-24,Deaths,4,Sweden,25
+2020-03-24,Cases,967,United Kingdom,6650
+2020-03-24,Deaths,74,United Kingdom,359
+2020-03-24,Cases,11236,USA,46442
+2020-03-24,Deaths,119,USA,590

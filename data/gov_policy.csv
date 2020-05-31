@@ -1,0 +1,47 @@
+country,symptom,date,pct_yes
+Denmark,Negative policy for the economy,2020-03-21,0.615071283095723
+Denmark,Negative policy for the economy,2020-03-22,0.5979247730220493
+Denmark,Negative policy for the economy,2020-03-23,0.5924242424242424
+Denmark,Negative policy for the economy,2020-03-24,0.5662460567823344
+Denmark,Positive policy for the country,2020-03-21,0.7739307535641547
+Denmark,Positive policy for the country,2020-03-22,0.7561608300907912
+Denmark,Positive policy for the country,2020-03-23,0.7757575757575758
+Denmark,Positive policy for the country,2020-03-24,0.7460567823343849
+France,Negative policy for the economy,2020-03-24,0.4099616858237548
+France,Positive policy for the country,2020-03-24,0.38697318007662834
+Germany,Negative policy for the economy,2020-03-24,0.6403162055335968
+Germany,Positive policy for the country,2020-03-24,0.6086956521739131
+Hungary,Negative policy for the economy,2020-03-24,0.490272373540856
+Hungary,Positive policy for the country,2020-03-24,0.4396887159533074
+Italy,Negative policy for the economy,2020-03-21,0.42962962962962964
+Italy,Negative policy for the economy,2020-03-22,0.41338582677165353
+Italy,Negative policy for the economy,2020-03-23,0.4351145038167939
+Italy,Negative policy for the economy,2020-03-24,0.40234375
+Italy,Positive policy for the country,2020-03-21,0.5259259259259259
+Italy,Positive policy for the country,2020-03-22,0.4763779527559055
+Italy,Positive policy for the country,2020-03-23,0.4770992366412214
+Italy,Positive policy for the country,2020-03-24,0.44140625
+Sweden,Negative policy for the economy,2020-03-21,0.43137254901960786
+Sweden,Negative policy for the economy,2020-03-22,0.41732283464566927
+Sweden,Negative policy for the economy,2020-03-23,0.39846743295019155
+Sweden,Negative policy for the economy,2020-03-24,0.44672131147540983
+Sweden,Positive policy for the country,2020-03-21,0.4117647058823529
+Sweden,Positive policy for the country,2020-03-22,0.41732283464566927
+Sweden,Positive policy for the country,2020-03-23,0.39080459770114945
+Sweden,Positive policy for the country,2020-03-24,0.46311475409836067
+United Kingdom,Negative policy for the economy,2020-03-21,0.576
+United Kingdom,Negative policy for the economy,2020-03-22,0.5652173913043478
+United Kingdom,Negative policy for the economy,2020-03-23,0.5275590551181102
+United Kingdom,Negative policy for the economy,2020-03-24,0.592
+United Kingdom,Positive policy for the country,2020-03-21,0.584
+United Kingdom,Positive policy for the country,2020-03-22,0.6007905138339921
+United Kingdom,Positive policy for the country,2020-03-23,0.6062992125984252
+United Kingdom,Positive policy for the country,2020-03-24,0.644
+USA,Negative policy for the economy,2020-03-21,0.5077519379844961
+USA,Negative policy for the economy,2020-03-22,0.5
+USA,Negative policy for the economy,2020-03-23,0.3858267716535433
+USA,Negative policy for the economy,2020-03-24,0.4274193548387097
+USA,Positive policy for the country,2020-03-21,0.5232558139534884
+USA,Positive policy for the country,2020-03-22,0.5
+USA,Positive policy for the country,2020-03-23,0.40551181102362205
+USA,Positive policy for the country,2020-03-24,0.43548387096774194
